@@ -36,8 +36,8 @@
 🔹 AI-Powered Accident Cause Identification – Leveraging AI to analyze accident data and identify root causes.
 
 ## 📬 Let's Connect!
-📧 Email: jyothydas11@gmail.com <br>
 Feel free to explore my repositories, connect with me, or collaborate on exciting data-driven projects! 🚀 <br>
+📧 Email: jyothydas11@gmail.com <br>
 ###
 
 <div align="left">
