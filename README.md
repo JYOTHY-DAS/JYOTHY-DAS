@@ -13,13 +13,7 @@
 🔹Tools: Jupyter Notebook, Tableau. <br>
 ## 📌 Current Projects
 🔹 AI-Powered Accident Cause Identification – Leveraging AI to analyze accident data and identify root causes.
-## 📬 Let's Connect!
-📧 Email: jyothydas11@gmail.com <br>
-💼 LinkedIn: [https://www.linkedin.com/in/jyothy-das/](https://www.linkedin.com/in/jyothy-das/) <br>
-🔗 Kaggle: [https://www.kaggle.com/jyothydas](https://www.kaggle.com/jyothydas) <br>
-Feel free to explore my repositories, connect with me, or collaborate on exciting data-driven projects! 🚀 <br>
-
-
+###########################################################################################################################################################################
 ###
 
 <div align="center">
@@ -37,6 +31,16 @@ Feel free to explore my repositories, connect with me, or collaborate on excitin
   <img width="12" />
 </div>
 
+
+
+
+###########################################################################################################################################################################
+
+
+## 📬 Let's Connect!
+📧 Email: jyothydas11@gmail.com <br>
+🔗 Kaggle: [https://www.kaggle.com/jyothydas](https://www.kaggle.com/jyothydas) <br>
+Feel free to explore my repositories, connect with me, or collaborate on exciting data-driven projects! 🚀 <br>
 ###
 
 <div align="left">
