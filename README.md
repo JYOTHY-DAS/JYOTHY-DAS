@@ -37,7 +37,6 @@
 
 ## 📬 Let's Connect!
 📧 Email: jyothydas11@gmail.com <br>
-🔗 Kaggle: [https://www.kaggle.com/jyothydas](https://www.kaggle.com/jyothydas) <br>
 Feel free to explore my repositories, connect with me, or collaborate on exciting data-driven projects! 🚀 <br>
 ###
 
