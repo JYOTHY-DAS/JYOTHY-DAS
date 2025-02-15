@@ -29,7 +29,7 @@ Feel free to explore my repositories, connect with me, or collaborate on excitin
 
 ###
 
-%<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<!--<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />-->
 
 ###
 
