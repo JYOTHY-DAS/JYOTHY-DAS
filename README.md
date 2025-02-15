@@ -7,6 +7,15 @@
 🔹 Machine Learning Model Development. <br>
 🔹 Data Visualization & Storytelling. <br>
 🔹 AI-Powered Solutions for Decision Making. <br>
+
+<!--#################################################################################################################################################-->
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+<!--################################################################################################################################################## -->
+
 ## 🛠️ Tools & Technologies
 🔹Languages: Python, SQL. <br>
 🔹Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn. <br>
