@@ -11,8 +11,7 @@
 🔹 Languages: Python, SQL. <br>
 🔹Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn. <br>
 🔹Tools: Jupyter Notebook, Tableau. <br>
-## 📌 Current Projects
-🔹 AI-Powered Accident Cause Identification – Leveraging AI to analyze accident data and identify root causes.
+
 <!--###################################################################################################################################################-->
 
 <div align="center">
@@ -31,6 +30,10 @@
 </div>
 <!--######################################################################################################################################################-->
 
+
+
+## 📌 Current Projects
+🔹 AI-Powered Accident Cause Identification – Leveraging AI to analyze accident data and identify root causes.
 
 ## 📬 Let's Connect!
 📧 Email: jyothydas11@gmail.com <br>
