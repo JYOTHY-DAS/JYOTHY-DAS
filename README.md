@@ -22,7 +22,7 @@
 🔹Tools: Jupyter Notebook, Tableau. <br>
 
 <!--###################################################################################################################################################-->
-![GitHub Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JYOTHY-DAS&theme=dracula&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JYOTHY-DAS&theme=dracula&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=JYOTHY-DAS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false)
 
 
