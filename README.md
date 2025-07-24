@@ -19,7 +19,7 @@
 ## 🛠️ Tools & Technologies
 🔹Languages: Python, SQL. <br>
 🔹Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn. <br>
-🔹Tools: Jupyter Notebook, Tableau. <br>
+🔹Tools: Jupyter Notebook, Tableau, ALteryx. <br>
 
 <!--############################################################ Github Stats and Top Languages ########################################################-->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JYOTHY-DAS&theme=dracula&show_icons=true)
